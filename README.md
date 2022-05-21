@@ -4,7 +4,7 @@
 
 ## npm package install list
 
-`
+```
 //jquery
 npm i --save jquery
 npm i --save @types/jquery
@@ -18,4 +18,4 @@ npm i --save react-bootstrap
 npm i --save @fortawesome/fontawesome-svg-core
 npm i --save @fortawesome/free-solid-svg-icons @fortawesome/free-regular-svg-icons @fortawesome/free-brands-svg-icons
 npm i --save @fortawesome/react-fontawesome
-`
+```
